@@ -16,7 +16,7 @@ public class FirstStudy {
                         .filter(x -> x>3 && x%2 == 0)
                         .map(x -> x*x)
                         .sorted()
-                        .forEach(System.out::println);
+                        .forEach(System.out::println)sdfsfdaaaaf;
 
 
         List<Integer> numbers2 = Arrays.asList(1,2,3,4);
